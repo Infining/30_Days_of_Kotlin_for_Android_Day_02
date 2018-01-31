@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">30_Days_of_Kotlin_for_Android_Day_02</string>
+    <string name="button">Button</string>
+    <string name="result_text">Result Activity</string>
+</resources>
